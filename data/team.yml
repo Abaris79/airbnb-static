@@ -1,0 +1,25 @@
+seb:
+  picture: images/seb.jpg
+  titre: "Maison de Sebastien"
+  descrition: "Belle Chambre avec Patio"
+  card_background: images/card-paris.jpg
+  category: Paris
+
+romain:
+  picture: images/romain.jpg
+  titre: "Maison de Romain"
+  description: "Vive la permaculture"
+  card_background: images/card-london.jpeg
+  category: Londres
+
+Anne:
+  picture: images/anne.jpg
+  titre: "Maison Girly"
+  description: "Venez dormir dans le Kitsch"
+  card_background: images/card-brussels.jpeg
+  category: Brussels
+
+
+
+
+
