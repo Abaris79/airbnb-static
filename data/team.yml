@@ -1,7 +1,7 @@
 seb:
   picture: images/seb.jpg
   titre: "Maison de Sebastien"
-  descrition: "Belle Chambre avec Patio"
+  description: "Belle Chambre avec Patio"
   card_background: images/card-paris.jpg
   category: Paris
 
